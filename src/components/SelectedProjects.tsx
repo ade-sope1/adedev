@@ -13,7 +13,7 @@ const projects = [
       "Video creation should feel like writing. A web-first video editing system featuring a custom timeline playback and stage preview engine.",
     tech: ["React", "Rust", "WebAudio API"],
     link: "/redner",
-    github: "https://github.com/erges01/redner",
+    github: "https://github.com/ade-sope1/redner",
     live: "https://redner.app",
   },
   {
@@ -23,7 +23,7 @@ const projects = [
       "A lightweight, type-safe TypeScript Object-Relational Mapper (ORM) built from scratch for SQLite, designed as a fast alternative to Prisma.",
     tech: ["TypeScript", "SQLite", "AST Parsing"],
     link: "#girdorm-case-study",
-    github: "https://github.com/erges01/girdorm",
+    github: "https://github.com/ade-sope1/girdorm",
   },
   {
     title: "GirdLedger",
@@ -32,7 +32,7 @@ const projects = [
       "A high-performance financial ledger engine built in Rust to handle complex transaction types and deterministic account state logic.",
     tech: ["Rust", "Axum", "Postgres"],
     link: "#girdledger-case-study",
-    github: "https://github.com/erges01/girdledger",
+    github: "https://github.com/ade-sope1/girdledger",
   },
 ];
 
@@ -144,7 +144,7 @@ export default function SelectedProjects() {
         className="mt-20 flex justify-center md:justify-start"
       >
         <a
-          href="https://github.com/erges01"
+          href="https://github.com/ade-sope1?tab=repositories"
           target="_blank"
           rel="noopener noreferrer"
           className="group flex items-center gap-3 px-6 py-3 btn-secondary transition-all font-semibold"
