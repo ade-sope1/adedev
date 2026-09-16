@@ -6,7 +6,7 @@ import { ArrowUpRight } from "lucide-react";
 
 const links = [
   { name: "Email", href: "mailto:adesopewinner@gmail.com" },
-  { name: "GitHub", href: "https://github.com/erges01" },
+  { name: "GitHub", href: "https://github.com/ade-sope1" },
   {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/winner-adesope-a28b70319/",
