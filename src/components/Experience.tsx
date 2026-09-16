@@ -7,7 +7,7 @@ const experiences = [
   {
     company: "Varsigram",
     role: "Software Engineer, Backend",
-    date: "2025 - Present",
+    date: "2025 - 2026",
     location: "Lagos, Nigeria",
     description: [
       "Architected scalable chat microservices supporting 1-on-1 messaging and threaded replies using Socket.io and Node.js.",
